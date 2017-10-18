@@ -1,3 +1,5 @@
+
+
 var LinkedList = function() {
     
     // 헬퍼 클래스
